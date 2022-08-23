@@ -1,0 +1,39 @@
+@media (max-width: 992px) {
+    .container {
+        min-width: 450px;
+        margin-top: 0 auto;
+    }
+    .promo_header {
+        font-size: 36px;
+    }
+    .promo_subheader {
+        font-size: 21px;
+    }
+}
+
+@media (max-width: 768px) {
+    .container {
+        min-width: 150px;
+        margin-top: 0 auto;
+    }
+    .header_phone {
+        font-size: 12px;
+    }
+    .button {
+        width: 130px;
+        font-size: 11px;
+    }
+    .promo_wrapper {
+        align-items: center;
+    }
+    .button_main {
+        width: 175px
+    }
+    .title {
+        font-size: 28px;
+    }
+    .advantages__wrapper {
+        margin: 65px auto;
+        display: table;
+    }
+}
